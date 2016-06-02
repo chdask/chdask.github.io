@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "chdask",
-    "repositoryName": "chdask.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "ichi"
-  }
-}
+{"meta":{"username":"chdask","repositoryName":"chdask.github.io","branch":"master"},"site":{"title":"A blog","description":"Some description","postsPerPage":"5","url":"https://chdask.github.io"},"socialnetwork":{},"theme":{"name":"Roon","url":"//chdask.github.io/themes/Roon"}}
